@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class Piece : MonoBehaviour
+public class Piece
 {
     public PieceType Type { get; private set; }
     public PieceColor Color { get; private set; }
